@@ -1,10 +1,9 @@
 ---
-body: ''
 content_type: resource
 description: ''
 draft: ''
 file: /media/courses/21a-461-what-is-capitalism-fall-2021/mit21a_461f21_sess5.pdf
-file_size: null
+file_size: 761011
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -1,10 +1,9 @@
 ---
-body: ''
 content_type: resource
 description: ''
 draft: ''
 file: /media/courses/21a-461-what-is-capitalism-fall-2021/object-id-72763.jpg
-file_size: null
+file_size: 317954
 file_type: image/jpeg
 image_metadata:
   caption: ''

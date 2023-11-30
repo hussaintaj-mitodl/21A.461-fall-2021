@@ -2,18 +2,18 @@
 content_type: resource
 description: ''
 draft: ''
-file: /media/courses/21a-461-what-is-capitalism-fall-2021/mit21a_461f21_media_sources.pdf
-file_size: 120948
-file_type: application/pdf
+file: /media/courses/21a-461-what-is-capitalism-fall-2021/object-id-72748.jpg
+file_size: 34613
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: MIT21A_461F21_Media_Sources.pdf
-uid: f18763fc-480d-4460-96ad-f1a1cd2569cd
+resourcetype: Image
+title: Object ID 72748.jpg
+uid: c0c7edb9-f59d-4a48-948f-97f11537385f
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
