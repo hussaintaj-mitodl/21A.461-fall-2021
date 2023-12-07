@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /media/courses/21a-461-what-is-capitalism-fall-2021/end-sheet-landscape.pdf
+file: /courses/21a-461-what-is-capitalism-fall-2021/end-sheet-landscape.pdf
 file_size: 114880
 file_type: application/pdf
 image_metadata:

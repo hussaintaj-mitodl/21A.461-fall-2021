@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: ''
-file: /media/courses/21a-461-what-is-capitalism-fall-2021/object-id-72767.jpg
+file: /courses/21a-461-what-is-capitalism-fall-2021/object-id-72767.jpg
 file_size: 197933
 file_type: image/jpeg
 image_metadata:
